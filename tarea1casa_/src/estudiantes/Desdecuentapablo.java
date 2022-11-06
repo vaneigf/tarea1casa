@@ -3,7 +3,7 @@ package estudiantes;
 public class Desdecuentapablo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-genevrated method stub
 
 	}
 
